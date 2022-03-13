@@ -1,6 +1,6 @@
-composer install
-composer require laravel/ui
-php artisan ui vue --auth
-php artisan migrate --seed
-npm install
-npm run dev
+1. composer install
+2. composer require laravel/ui
+3. php artisan ui vue --auth
+4. php artisan migrate --seed
+5. npm install
+6. npm run dev
